@@ -10,12 +10,12 @@
     "php": "~5.5.0|~5.6.0|~7.0.0|~7.2.0|~7.3.0|~7.4.0"
   },
   "autoload": {
-    "classmap": {
+    "classmap": [
       "src/Zend/Validate/Hostname.php",
       "src/Zend/Validate/Hostname/Biz.php",
       "src/Zend/Validate/Hostname/Cn.php",
       "src/Zend/Validate/Hostname/Com.php",
-      "src/Zend/Validate/Hostname/Jp.php",
-    }
+      "src/Zend/Validate/Hostname/Jp.php"
+    ]
   }
 }
