@@ -11,11 +11,11 @@
   },
   "autoload": {
     "classmap": {
-      "Zend_Validate_Hostname": "src/Zend/Validate/Hostname.php",
-      "Zend_Validate_Hostname_Biz": "src/Zend/Validate/Hostname/Biz.php",
-      "Zend_Validate_Hostname_Cn": "src/Zend/Validate/Hostname/Cn.php",
-      "Zend_Validate_Hostname_Com": "src/Zend/Validate/Hostname/Com.php",
-      "Zend_Validate_Hostname_Jp": "src/Zend/Validate/Hostname/Jp.php",
+      "src/Zend/Validate/Hostname.php",
+      "src/Zend/Validate/Hostname/Biz.php",
+      "src/Zend/Validate/Hostname/Cn.php",
+      "src/Zend/Validate/Hostname/Com.php",
+      "src/Zend/Validate/Hostname/Jp.php",
     }
   }
 }
