@@ -11,11 +11,7 @@
   },
   "autoload": {
     "classmap": [
-      "src/Zend/Validate/Hostname.php",
-      "src/Zend/Validate/Hostname/Biz.php",
-      "src/Zend/Validate/Hostname/Cn.php",
-      "src/Zend/Validate/Hostname/Com.php",
-      "src/Zend/Validate/Hostname/Jp.php"
+      "src/Zend/Validate"
     ]
   }
 }
